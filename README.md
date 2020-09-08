@@ -1,2 +1,3 @@
 # graph_analysis
-som smol change
+smol change
+will try to log time
